@@ -74,9 +74,6 @@ while erros <=5:
            print("Essa letra ja foi escolhida")
         # Posição da letra escolhida na palavra
         posicao=[i for i in range(len(letras)) if letras[i]==escolha]
-        # print(pos)
-        # ipdb.set_trace()
-        # posicao = letras.index(escolha)
         for pos in posicao:
             ordenacao.update({
                 pos: '%s' %escolha

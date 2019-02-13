@@ -1,2 +1,8 @@
 casa
-ricardo
+cavalo
+agua
+loja
+parede
+compudador
+mouse
+teclado
